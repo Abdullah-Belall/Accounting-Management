@@ -28,7 +28,6 @@ import { LocalTenantsModule } from './local-tenants/local-tenants.module';
       }),
       inject: [ConfigService],
     }),
-    ,
     FreetrialsTenantsModule,
     LocalTenantsModule,
   ],
